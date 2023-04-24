@@ -1,7 +1,7 @@
 
 ![Header](https://github.com/savushkaO/savushkaO/blob/main/assets/sova3.jpg)
 
-## 🐛 I'm beginner QA engineer 
+## 🐛 I'm beginner at Data Science
 Currently looking for an **internship** or **junior** position: full-time, any type of attendence (hybrid, remote, on-site). Here is a [link](https://drive.google.com/drive/folders/1A3b4pCraPysG6RnByov-Y5TsNPCeSlKq?usp=sharing) to my resume. 
 
 ## 🔨 Languages and Tools 
