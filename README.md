@@ -17,12 +17,6 @@ Currently looking for an **internship** or **junior** position: full-time, any t
 [![Telegram](https://img.shields.io/badge/-Telegram-9BAE8E?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/olyasav)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9BAE8E?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/olga-savkina-35320823a)
 
-## 📎 Portfolio 
-Some 'test task' which I made and have opportunity to share. 
-- Take part in [marathon](https://drive.google.com/drive/u/1/folders/171V9qvftwVbcJDXhfRJdUxly-UUr_m64) from [2QAs](https://t.me/s/qa2qas) 
-- Homeworks during Netcraker QA [course](https://drive.google.com/drive/folders/1BK_IqLbCSmNQEvEup5j9prSWlSiygiAU?usp=sharing) 
-- My [checklist](https://drive.google.com/drive/u/1/folders/1Or3lCzjykQ7xRgyaJAfOnXFeDjWIfBsN) for test task for Junior position
-- My [test cases](https://drive.google.com/drive/folders/1rSauJHeO-PncZXLZmva-ihcWL6pzCY_8?usp=sharing) for Junior position
 ## 🎓 Certificates 
 And here are a few related courses that I have successfully completed.
  
